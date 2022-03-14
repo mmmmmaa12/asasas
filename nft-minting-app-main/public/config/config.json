@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x96dFa11ab8845E19a38D02a9345875d871f190b4",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x96dfa11ab8845e19a38d02a9345875d871f190b4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "ASTRO IMPOSTER",
+  "SYMBOL": "AIC",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/astro-imposters",
+  "SHOW_BACKGROUND": true
+}
